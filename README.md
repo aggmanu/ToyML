@@ -9,7 +9,7 @@ Heart ECG: Has clear patterns. ML has been used to predict heart conditions.
 Stock market: What is this garbage?
 Resting state MEG: Hopefully some meaningful patterns.
 
-What might we mean 'predicting the future'? To begin with, it can be whether $s_i(T+k)/s_i(0) > f,$ where $f > 1$ is fixed parameter. We do not know what values $k$ can be. It can be interesting to find out $k$ for which predictions can be made with higher probability.
+What might we mean 'predicting the future'? To begin with, it can be whether $s_i(T+k)/s_i(0) > f,$ where $f > 1$ is fixed parameter. We do not know what values $k$ should be. It can be interesting to find out $k$ for which predictions can be made with higher probability.
 
 ML/Neural Network (NL) model names I have heard: basic multiple layers, convolutional NN (CNN), variational autoencoder (VAE), neural differential equations. Each model has set of hyper
 
