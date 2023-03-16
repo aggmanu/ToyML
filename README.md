@@ -20,6 +20,6 @@ Proposed steps:
 2. Discuss input and output for ML model. (very difficult)
 3. Implement basic multiple layers using pyTorch. (easy?)
 4. Training and validation scheme. (difficult)
-5. Celebrate when we see any output on testing data even though it might not make any more useful prediction --> Refine model by changing input data, traininig criteria, loss function, hyper parameters, different ML model.
+5. Celebrate when we see any output on testing data even though it might not make any useful prediction --> Refine model by changing input data, traininig criteria, loss function, hyper parameters, different ML model etc.
 
 
