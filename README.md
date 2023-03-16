@@ -16,7 +16,7 @@ ML/Neural Network (NL) model names I have heard: basic multiple layers, convolut
 Proposed Python module to use for ML model: pyTorch.
 
 Proposed steps:
-1. Get stock market data and save as csv file or numpy or pandas -- https://towardsdatascience.com/python-how-to-get-live-market-data-less-than-0-1-second-lag-c85ee280ed93. (easy)
+1. Get stock market data and save as csv file or numpy or pandas -- https://towardsdatascience.com/python-how-to-get-live-market-data-less-than-0-1-second-lag-c85ee280ed93. (easy, but there were some issues with this module in 2021 which were later resolved in their github)
 2. Discuss input and output for ML model. (very difficult)
 3. Implement basic multiple layers using pyTorch. (easy?)
 4. Training and validation scheme. (difficult)
