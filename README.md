@@ -11,7 +11,7 @@ Resting state MEG: Hopefully some meaningful patterns.
 
 What might we mean 'predicting the future'? To begin with, it can be whether $s_i(T+k)/s_i(0) > f,$ where $f > 1$ is fixed parameter. We do not know what values $k$ should be. It can be interesting to find out $k$ for which predictions can be made with higher probability.
 
-ML/Neural Network (NL) model names I have heard: basic multiple layers, convolutional NN (CNN), variational autoencoder (VAE), neural differential equations. Each model has set of hyper
+ML/Neural Network (NL) model names that I have heard of: basic multiple layers, convolutional NN (CNN), variational autoencoder (VAE), neural differential equations. Each model can have different set of hyperparameters. For example, can be choice of activation function, learning rate, number of input nodes, number of output nodes, number of hidden layers etc.
 
 Proposed Python module to use for ML model: pyTorch.
 
