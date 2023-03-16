@@ -2,7 +2,7 @@
 
 Broad aim: Play with Python and Machine learning (ML).
 
-More specific aim: Analyze noisy high-resolution time-series from $N$ sources, say $s_i, 1 \leq i \leq N.$ Examples, stock market, brain resting-state MEG, heart ECG etc. 'Analyze' here means, given an input of time-window length $T$ from all sources, can we predict anything in the future?
+More specific aim: Analyze noisy high-resolution time-series from $N$ sources, say $s_i(t),\, 1 \leq i \leq N.$ Examples, stock market, brain resting-state MEG, heart ECG etc. 'Analyze' here means, given an input of time-window length $T$ from all sources, can we predict anything in the future?
 
 
 Heart ECG: Has clear patterns. ML has been used to predict heart conditions.
