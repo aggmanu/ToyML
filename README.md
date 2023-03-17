@@ -22,4 +22,25 @@ Proposed steps:
 4. Training and validation scheme. (difficult)
 5. Celebrate when we see any output on testing data even though it might be garbage non-prediction --> Refine model by changing input data, traininig criteria, loss function, hyper parameters, different ML model etc.
 
+# Some terminology to be on the same page:
+
+Bold-face are *tensors*. In ML terminology, tensor just means high-dimensional matrices.
+
+*Input* tensor to a model is $\mathbf{x}.$ These are also called *features*.
+
+*True output* tensor is $\mathbf{y}.$
+
+*Parameter* tensor of a model is $\mathbf{\theta}.$
+
+*Model* $f$ is a function of unknown parameters and inputs. Various architectures -- egs. CNNs, VAEs, GANs, RNN etc.
+
+*Model output* tensor of a model is $\mathbf{widehat{y}} = f_\theta (\mathbf{x}).$
+
+Loss function is $l(\mathbf{y}, \mathbf{\widehat{y}}.$
+
+ML model trains on a *batch* of input tensors to estimate parameters with objective of minimizing loss function.
+
+*Hyperparameters* are thresholds and properties of the model, for a given model architecture.
+
+
 
