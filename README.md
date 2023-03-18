@@ -36,7 +36,7 @@ Bold-face are *tensors*. In ML terminology, tensor just means high-dimensional m
 
 *Model output* tensor of a model is $\mathbf{widehat{y}} = f_\theta (\mathbf{x}).$
 
-Loss function is $l(\mathbf{y}, \mathbf{\widehat{y}}.$
+Loss function is $l(\mathbf{y}, \mathbf{\widehat{y}}).$
 
 ML model trains on a *batch* of input tensors to estimate parameters with objective of minimizing loss function.
 
