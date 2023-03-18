@@ -26,7 +26,7 @@ Proposed steps:
 
 Bold-face are *tensors*. In ML terminology, tensor just means high-dimensional matrices.
 
-*Input* tensor to a model is $\mathbf{x}.$ These are also called *features*.
+*Input* tensor to a model is $\mathbf{x}.$ Input can be $n$ observations of $k$ *features*.
 
 *True output* tensor is $\mathbf{y}.$
 
