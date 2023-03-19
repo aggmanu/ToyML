@@ -34,7 +34,7 @@ Bold-face are *tensors*. In ML terminology, tensor just means high-dimensional m
 
 *Model* $f$ is a function of unknown parameters and inputs. Various architectures -- egs. CNNs, VAEs, GANs, RNN etc.
 
-*Model output* tensor of a model is $\mathbf{widehat{y}} = f_\theta (\mathbf{x}).$
+*Model output* tensor of a model is $\mathbf{\widehat{y}} = f_\theta (\mathbf{x}).$
 
 Loss function is $l(\mathbf{y}, \mathbf{\widehat{y}}).$
 
